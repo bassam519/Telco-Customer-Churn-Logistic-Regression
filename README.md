@@ -13,7 +13,7 @@ This project uses Logistic Regression to predict whether a telecom customer will
 6. **Evaluation** – Calculated model accuracy on the test set
 
 ## 📊 Results
-- **Accuracy:** Achieved XX% accuracy on the test data  
+- **Accuracy:** Achieved 81% accuracy on the test data  
 - Insights:
   - Higher monthly charges are correlated with higher churn
   - Customers with shorter contracts are more likely to churn
